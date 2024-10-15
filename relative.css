@@ -1,0 +1,39 @@
+.c1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    position: relative;
+    z-index: 2;
+}
+
+.c2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    position: relative;
+    left: 30px;
+    bottom: 80px;
+    z-index:5;
+}
+
+.c3{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    position: relative;
+    left: 60px;
+    bottom: 140px;
+    z-index: 3;
+}
+
+.c4{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    position: static;
+}
+

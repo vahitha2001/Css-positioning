@@ -1,0 +1,25 @@
+
+
+.c1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    position: static;
+}
+
+.c2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    position: static;
+}
+
+.c3{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    position: static;
+}
